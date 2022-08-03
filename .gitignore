@@ -4,3 +4,4 @@
 node_modules/
 dumb2.txt
 !app.js
+*.php
