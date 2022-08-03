@@ -2,3 +2,7 @@ onefunction = i have write very important function
 Twofunction = i have write another very important function
 Threefunction = i have write unnecessery function
 
+A new div is added in master branch
+
+
+chart function added in new branch
