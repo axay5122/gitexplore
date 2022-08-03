@@ -1,4 +1,4 @@
-onefunction = i have write one ok important function
+onefunction = i have write very important function
 Twofunction = i have write another very important function
 Threefunction = i have write unnecessery function
 
@@ -7,5 +7,4 @@ A new div is added in master branch
 
 chart function added in new branch.
 
-Adding a new function t login user via X method
 
